@@ -6,9 +6,9 @@ The real-time detection of humans is emerging as a significant trend, to success
 
 What can you accomplish applying object detection tools to your images and video? Computer vision person detection accomplishes three distinct tasks:
 
-1.Picks objects out of background images
-2.Proposes the objects as belonging to a certain class — humans, in this case — using a probability score
-3.Defines the boundaries of the proposed people with x-y origins and height and length values
+1.Picks objects out of background images.
+2.Proposes the objects as belonging to a certain class — humans, in this case — using a probability score.
+3.Defines the boundaries of the proposed people with x-y origins and height and length values.
 
 # Detectron 2
 
