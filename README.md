@@ -14,7 +14,7 @@ What can you accomplish applying object detection tools to your images and video
 
 Detectron2 originates from Mask R-CNN benchmark, and Some of the features of detectron2 comes with are as follows:
 
-1.It is Powered by Pytorch deep learning framework.
+>1.It is Powered by Pytorch deep learning framework.
 2.Panoptic segmentation
 3.Include Densepose
 4.Provide a wide set of baseline results and trained models for download in the Detectron2 ModelZoo.
